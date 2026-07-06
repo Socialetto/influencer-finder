@@ -1,0 +1,27 @@
+{
+  "name": "socialetto-influencer-finder",
+  "version": "1.0.0",
+  "description": "Influencer Finder find and contact the right influencers to promote your brand",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "influencer-finder",
+    "influencer-marketing",
+    "influencers",
+    "instagram",
+    "tiktok",
+    "creators",
+    "marketing",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Socialetto",
+  "license": "ISC",
+  "homepage": "https://socialetto.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialetto/influencer-finder.git"
+  }
+}
